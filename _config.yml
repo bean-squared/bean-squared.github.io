@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "십C일반"
+title                    : "원하던 바이오(BIO)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이승빈"
-description              : "작은 코드들이 모여 큰 변화를 만듭니다"
+description              : "작은 DNA들이 모여 큰 변화를 만듭니다"
 url                      : "https://bean-squared.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bean-squared.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "이승빈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 컴퓨터교육 학생"
+  bio              : "행복한 "
   location         : "대한민국, 성남"
   email            : 21-20619@hafs.hs.kr
   links:
