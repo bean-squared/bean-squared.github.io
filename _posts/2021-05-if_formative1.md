@@ -1,11 +1,14 @@
 ---
 layout: single
-title: "조건문" 
+title: "이공계의 뿌리, C" 
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차" 
 
 ---
+최근 생명정보학(Bioinformatics)이 주목받으며, 코드 이해의 중요성이 강조되고 있습니다. C 언어의 기본적인 문법을
+활용한 조건문 예제를 통해 기초를 탄탄하게 다지도록 합시다!
+
 
 ### 01. 사주보기
 ![saju](/assets/images/prophecy.png)
