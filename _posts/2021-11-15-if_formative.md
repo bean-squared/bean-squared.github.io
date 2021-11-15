@@ -4,6 +4,7 @@ title: "이공계의 뿌리, C"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차" 
+categories: "생물정보학"
 
 ---
 최근 생물정보학(Bioinformatics)이 주목받으며, 코드 이해의 중요성이 강조되고 있습니다. C 언어의 기본적인 문법을
